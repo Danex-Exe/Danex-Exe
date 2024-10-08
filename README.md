@@ -10,6 +10,6 @@
   </div><br>
   <a href="https://github.com/Danex-Exe">
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danex-Exe&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
+  </a><br><br><br>
   <div><a href="https://t.me/danexexe" target="_blank"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" target="_blank"></a> </div>
 </div>
