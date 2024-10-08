@@ -9,7 +9,7 @@
   <img align="center" alt="Python" height="35" width="40" src="https://www.svgrepo.com/show/376344/python.svg">
 </div><br>
 
-### GitHub Stats
+                                                            ### GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/Danex-Exe">
