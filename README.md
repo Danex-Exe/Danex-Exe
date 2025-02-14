@@ -16,8 +16,8 @@
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Arduino-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge)"></a>
-  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/bash-%23000000.svg?style=for-the-badge)"></a>
-  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/powershell-%23000000.svg?style=for-the-badge)"></a>
+  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge)"></a>
+  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/PowerShell-%23000000.svg?style=for-the-badge)"></a>
 <br><br>
 
 **Social**
