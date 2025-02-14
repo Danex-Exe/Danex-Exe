@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; justify-content: center;"><a href="https://github.com/Danex-Exe"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=335&lines=Hi%2C+everyone!+I'm+DanexExe.;I+am+Full-Stack+Developer+"></a><br><a href="https://github.com/Danex-Exe"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danex-Exe&layout=compact&langs_count=7&theme=one_dark_pro"/></a><br><br><br>
   
-**Tech Stack**
+**About me**
   
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/NodeJS-%23000000.svg?style=for-the-badge)"></a>
