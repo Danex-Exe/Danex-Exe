@@ -2,14 +2,14 @@
   
 **Tech Stack**
   
-  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge)"></a>
+  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/NodeJS-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/HTML-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/CSS-%23000000.svg?style=for-the-badge)"></a>
   <br>
-  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge)"></a>
-  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge)"></a>
+  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge)"></a>
+  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/C%23-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Lua-%23000000.svg?style=for-the-badge)"></a>
   <br>
