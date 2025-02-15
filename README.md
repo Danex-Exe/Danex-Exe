@@ -2,7 +2,7 @@
   
 **About me**
   
-  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge)"></a>
+  <b><a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/NodeJS-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/HTML-%23000000.svg?style=for-the-badge)"></a>
@@ -17,7 +17,7 @@
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge)"></a>
   <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge)"></a>
-  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/PowerShell-%23000000.svg?style=for-the-badge)"></a>
+  <a href="https://github.com/Danex-Exe"><img src="https://img.shields.io/badge/PowerShell-%23000000.svg?style=for-the-badge)"></a></b>
 <br><br>
 
 **Social**
